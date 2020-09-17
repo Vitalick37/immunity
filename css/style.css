@@ -247,17 +247,9 @@ ul li {
   font-size: calc(36px + 108 * ((100vw - 320px) / 1120));
   line-height: 152px;
   text-transform: uppercase;
+  color: #ffffff;
   margin-bottom: 24px;
   padding-top: 40px;
-  background: -o-linear-gradient(#dedede, transparent 1px), -o-linear-gradient(left, #dedede, transparent 1px);
-  background: linear-gradient(#dedede, transparent 1px), linear-gradient(90deg, #dedede, transparent 1px);
-  background-size: 8px 8px;
-  background-position: center center;
-  -webkit-background-clip: text;
-          background-clip: text;
-  background-color: #fff;
-  display: inline-block;
-  color: transparent;
 }
 
 .promo__deskr {
